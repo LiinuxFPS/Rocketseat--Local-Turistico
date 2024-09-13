@@ -1,0 +1,49 @@
+:root{
+    font-family: "Open Sans", sans-serif;
+}
+body{
+    background-color: #f5f4f0;
+}
+#page{
+    width: 1120px;
+    margin: 80px auto;
+}
+
+img{
+    border-radius: 28px;
+}
+
+p{
+    color: #333333;
+}
+
+p#descricao{
+    font-style: italic;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: #1B1B1B;
+}
+
+h1{
+    font-size: 36px;
+}
+
+h2{
+    font-size: 32px;
+}
+
+h3{
+    font-size: 28px;
+}
+
+span{
+    color: #E1624F;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+footer{
+    text-align: center;
+}
